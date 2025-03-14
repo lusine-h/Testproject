@@ -1,3 +1,7 @@
 Pay test
 Payment test with invalid card creds
+<<<<<<< HEAD
 Test on master branch
+=======
+Changes on newBranch
+>>>>>>> newBranch
